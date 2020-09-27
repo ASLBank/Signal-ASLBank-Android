@@ -1,6 +1,10 @@
-# Signal ASL BANK Android 
+# Signal ASL Bank Android 
 
-Signal ASL BANK is fork for Signal how was a messaging app for simple private communication with friends.
+Signal ASL Bank is fork for Signal how was a messaging app for simple private communication with friends.
+
+Signal ASL Bank is created to implement security in internal private communication between employees.
+
+For this reason ASL Bank will be a contributor to the improvement of Signal app and its master team.
 
 Signal ASL BANK uses your phone's data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
 
